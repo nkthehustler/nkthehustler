@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nkthehustler
-- 👀 I’m interested HTML<<JAVASCRIPT<<CSS<<C++<JAVA
+- 👀 I’m interested HTML<<JAVASCRIPT<<CSS<<C++<<JAVA
 - 🌱 I’m currently learning JAVA ADVANCED
 - 💞️ I’m looking to collaborate on JAVA GAMES
 - 📫 How to reach me insta @nkthehustler
