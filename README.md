@@ -1,7 +1,7 @@
 - 👋 Hi, I’m nkthehustler
 - 👀 I’m interested HTML<<JAVASCRIPT<<CSS<<C++<<JAVA
-- 🌱 I’m currently learning JAVA ADVANCED
-- 💞️ I’m looking to collaborate on JAVA GAMES
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate MERN Stack technology
 - 📫 How to reach me insta @nkthehustler
 
 <!---
