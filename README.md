@@ -69,13 +69,11 @@ height="37"/> </a>
 ## My hobbies
 
 
-- 🌱 **To be Extroverted** <img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
+- 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
 
-- 👯 **PHOTOGRAPHY**
+- 🎵 **MUSIC**
 
-- 🤝 **MUSIC**
-
-- 💬 **BOOKS**
+- 📚 **BOOKS**
 
 - ☕ **COFFEE**
 
