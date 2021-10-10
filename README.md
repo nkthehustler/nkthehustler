@@ -53,3 +53,15 @@ Hi I'm `Nitin Kumar`
    <a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
     <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
 </p>
+
+
+
+
+## 4. Random Joke Generator
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+--------------------------------------------------------------------
+## 5. Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
+### HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
