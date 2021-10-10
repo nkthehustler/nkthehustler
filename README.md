@@ -4,6 +4,16 @@ Hi I'm `Nitin Kumar`
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
+
+<p align="center">
+  <a href='https://github.com/JayantGoel001/'>
+    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
+
+
+
+
+
+
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
