@@ -1,7 +1,6 @@
 ## About me
 <p align="left">
 <img src="https://metrics.lecoq.io/nkthehustler">	
-<img src="https://username=nkthehustler&theme=onedark">
 </p>
 
 
