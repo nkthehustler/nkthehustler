@@ -1,5 +1,7 @@
 ## About me
+<div class="right">
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
+</div>
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
