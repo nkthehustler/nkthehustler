@@ -64,4 +64,4 @@ Hi I'm `Nitin Kumar`
 ## 5. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
 ### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/nkthehustler/Python)
