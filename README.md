@@ -63,7 +63,16 @@ height="37"/> </a>
 <a href="mailto:nkthehustler@gmail.com"> <img src="https://img.icons8.com/color/48/ffffff/gmail-new.png"   alt="express" width="37" 
 height="37"/> </a>
 </p>
-<img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
-<button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
-<button type="button" class="btn btn-secondary btn-lg btn-block">Block level button</button>
+## My hobbies
+<img src=https://www.freepik.com/free-vector/organic-flat-design-about-me-concept_13244997.htm#page=1&query=hobbies&position=0&from_view=keyword />
+
+
+
+
+
+
+
+
+
+<img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
