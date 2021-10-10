@@ -69,13 +69,15 @@ height="37"/> </a>
 ## My hobbies
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
+- 🌱 **To be Extroverted** <img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
 
-- 👯 I’m looking to collaborate on **Inetrnships**
+- 👯 **PHOTOGRAPHY**
 
-- 🤝 I’m looking for help with **Backend Design**
+- 🤝 **MUSIC**
 
-- 💬 Ask me about **Designing and Philosophy 😆**
+- 💬 **BOOKS**
+
+- ☕ **COFFEE**
 
 
 
