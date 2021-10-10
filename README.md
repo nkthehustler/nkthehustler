@@ -47,10 +47,10 @@ Hi I'm `Nitin Kumar`
 
  ## Get in touch
 
-<div align="centre"> 
+<p align="centre"> 
 <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/ffffff/linkedin-2--v1.png" alt="express" width="37" height="37"/> 
 </a> 
 </div>
 <div align="centre">
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
-</div>
+</p>
