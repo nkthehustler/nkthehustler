@@ -1,3 +1,5 @@
+## About me
+<img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
@@ -39,4 +41,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
+
