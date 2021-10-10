@@ -49,11 +49,8 @@ Hi I'm `Nitin Kumar`
 
 <div align="centre"> 
 <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/ffffff/linkedin-2--v1.png" alt="express" width="37" height="37"/> 
-</a>
-<a href="sumanth.bajjuri8121@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/100/ffffff/slack-new.png"  alt="express" width="37" height="37"/ > 
-</a>
-<a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="express" width="37" height="37"/> 
-</a>
-<a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="express" width="37" height="36"/ > 
-</a>  
+</a> 
+</div>
+<div align="right">
+<img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
