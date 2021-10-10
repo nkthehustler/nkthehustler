@@ -14,13 +14,13 @@
 <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nkthehustler&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/nkthehustler/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkthehustler&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkthehustler&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ![nkthehustler's snake gif](https://github.com/nkthehustler/nkthehustler/blob/output/github-contribution-grid-snake.svg)
 
 ## Tools & technologies
-<BR>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,9 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
- ## Get in touch
+## Get in touch
  
 <p align="center">
 <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="express" width="37"         height="37"/> </a>
@@ -66,8 +64,8 @@ height="37"/> </a>
 
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
-## My hobbies
 
+## My hobbies
 
 - 📸 **PHOTOGRAPHY**<img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
 
@@ -78,6 +76,7 @@ height="37"/> </a>
 - 📚 **BOOKS**
 
 - ☕ **COFFEE**
+
 
 
 
