@@ -57,15 +57,3 @@ Hi I'm `Nitin Kumar`
 <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="express" width="37" height="36"/ > 
 </a>  
 </p>
-
-
-
-
-## 4. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
---------------------------------------------------------------------
-## 5. Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
-### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/nkthehustler/Python)
