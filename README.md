@@ -50,10 +50,11 @@ Hi I'm `Nitin Kumar`
 <p align="centre"> 
 <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" alt="express" width="37" height="37"/> 
 </a>
-<a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/slack-new.png"  alt="express" width="42" height="42"/ > 
+<a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/96/000000/slack-new.png"  alt="express" width="37" height="37"/ > 
 </a>
-<a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
-<a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > 
+<a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="express" width="37" height="37"/> 
+</a>
+<a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="express" width="37" height="36"/ > 
 </a>  
 </p>
 
