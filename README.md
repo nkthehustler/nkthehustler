@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
+- 💬 Ask me about **Designing and Philosophy 😆**
 
 
 ## My activities
