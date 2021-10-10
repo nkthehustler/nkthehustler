@@ -64,15 +64,4 @@ height="37"/> </a>
 height="37"/> </a>
 </p>
 
-## My hobbies
-<img src="https://www.freepik.com/free-vector/organic-flat-design-about-me-concept_13244997.htm#page=1&query=hobbies&position=0&from_view=keyword" />
-
-
-
-
-
-
-
-
-
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
