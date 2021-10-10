@@ -73,9 +73,13 @@ height="37"/> </a>
 
 - 🎵 **MUSIC**
 
+- 🎮 **GAMING**
+
 - 📚 **BOOKS**
 
 - ☕ **COFFEE**
+
+
 
 
 
