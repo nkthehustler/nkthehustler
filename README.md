@@ -8,7 +8,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;a+designer+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 
 
