@@ -9,7 +9,7 @@
 
 ![nkthehustler's snake gif](https://github.com/nkthehustler/nkthehustler/blob/output/github-contribution-grid-snake.svg)
 
-### My Languages 
+### Tools & technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
