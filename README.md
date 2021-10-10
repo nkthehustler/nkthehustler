@@ -41,4 +41,5 @@
 ## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+https://giphy.com/gifs/glitch-alphabet-font-3osxY9kuM2NGUfvThe
 
