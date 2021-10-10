@@ -1,3 +1,7 @@
+## About me
+<img src="https://metrics.lecoq.io/nkthehustler">	
+
+
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
