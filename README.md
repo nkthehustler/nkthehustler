@@ -61,10 +61,3 @@ height="37"/> </a>
 height="37"/> </a>
 </p>
 
-
-<p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="55%"/>
-  </a>
-</p>
