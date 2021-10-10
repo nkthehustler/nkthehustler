@@ -1,7 +1,6 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg)
 
+⨳ Hi I am Nitin
 
 
 <div align="right">
