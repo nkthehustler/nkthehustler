@@ -4,11 +4,20 @@ Hi I'm `Nitin Kumar`
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
+The *introduction* plugin display your account bio or your organization/repository description.
+It is mostly intended for metrics used outside of GitHub, since these informations are already available on GitHub.
 
-<p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-  </a>
-
+<table>
+  <td align="center">
+    <details open><summary>Account version</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.svg">
+    </details>
+    <details open><summary>Repository version</summary>
+      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.repository.svg">
+    </details>
+    <img width="900" height="1" alt="">
+  </td>
+</table>
 
 
 
