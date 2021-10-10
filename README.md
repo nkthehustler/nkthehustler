@@ -1,15 +1,13 @@
 <h1 align="center">Welcome to my Profile</h1>
 <h3 align="center">I Love to Build Android App Ui And More.</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg)
+
 
 
 <div align="right">
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg)
-
 
 
 ## My activities
