@@ -1,11 +1,15 @@
 ## About me
 Hi I'm `Nitin Kumar`
+<h1 align="center">Hi 👋, I'm Jay</h1>
+<h3 align="center">I Love to Build Android App Ui And More.</h3>
+
+
+
 <div align="right">
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
 ## My activities
-
 <a href="https://github.com/nkthehustler/github-readme-stats">
 <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nkthehustler&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
@@ -61,5 +65,4 @@ height="37"/> </a>
 height="37"/> </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=nkthehustler&style=flat-square&color=blueviolet)
 
