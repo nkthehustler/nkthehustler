@@ -1,5 +1,6 @@
 ## About me
 <div align="left">
+<img src="https://metrics.lecoq.io/nkthehustler">	
 <img src="https://github-profile-trophy.vercel.app/?username=nkthehustler&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </div>
 <div align="right">
