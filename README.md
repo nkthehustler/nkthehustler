@@ -45,4 +45,11 @@ Hi I'm `Nitin Kumar`
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+ ## Get in touch
 
+<p align="centre"> 
+    <a href="https://www.linkedin.com/in/sumanth-bajjuri/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="express" width="37" height="37"/> </a>
+    <a href="sumanth.bajjuri8121@gmail.com" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="express" width="42" height="42"/ > </a>
+   <a href="https://twitter.com/SumanthBajjuri?s=08" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="express" width="37" height="37"/> </a>
+    <a href="https://wa.link/3fjxvn" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/733/733585.png" alt="express" width="37" height="36"/ > </a>  
+</p>
