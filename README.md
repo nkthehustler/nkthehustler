@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin here!;+a+designer+cum+developer...;I'm+a+CRAZY+basketball+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 ## My activities
 <a href="https://github.com/nkthehustler/github-readme-stats">
