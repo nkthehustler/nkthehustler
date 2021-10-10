@@ -66,4 +66,17 @@ height="37"/> </a>
 
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
 
+## My hobbies
+
+
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" img src="Hobbies.png"/>
+
+- 👯 I’m looking to collaborate on **Inetrnships**
+
+- 🤝 I’m looking for help with **Backend Design**
+
+- 💬 Ask me about **Designing and Philosophy 😆**
+
+
+
 engineer by day gamer by night meaning
