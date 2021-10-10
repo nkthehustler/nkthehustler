@@ -1,9 +1,3 @@
-## About me
-<p align="left">
-<img src="https://metrics.lecoq.io/nkthehustler">	
-</p>
-
-
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
