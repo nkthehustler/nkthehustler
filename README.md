@@ -46,9 +46,8 @@ Hi I'm `Nitin Kumar`
 
 
  ## Get in touch
-
-<p align="centre"> 
-<a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/ffffff/linkedin-2--v1.png" alt="express" width="37" height="37"/> 
-</a> 
-</div>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/90/ffffff/linkedin-2--v1.png" alt="express" width="37" height="37"/> 
+</a>
+</p>
