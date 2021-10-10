@@ -6,8 +6,8 @@ Hi I'm `Nitin Kumar`
 
 
 <p align="center">
-  <a href='https://github.com/nkthehustler/'>
-    <img width="75%" src="https://github.com/nkthehustler/nkthehustler/blob/master/metrics.svg"/>
+  <a href='https://github.com/JayantGoel001/'>
+  </a>
 
 
 
