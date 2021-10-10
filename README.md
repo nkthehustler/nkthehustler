@@ -1,5 +1,3 @@
-## About me
-Hi I'm `Nitin Kumar`
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">I Love to Build Android App Ui And More.</h3>
 
