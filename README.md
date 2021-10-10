@@ -1,6 +1,6 @@
 ## About me
 <div align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<img src="https://github-profile-trophy.vercel.app/?username=nkthehustler&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </div>
 <div align="right">
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
