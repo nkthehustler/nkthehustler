@@ -4,14 +4,7 @@ Hi I'm `Nitin Kumar`
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
-  <td align="center">
-    <details open><summary>Account version</summary>
-      <img src="https://github.com/nkthehustler/nkthehustler/blob/master/metrics.plugin.introduction.svg">
-    </details>
-    <details open><summary>Repository version</summary>
-      <img src="https://github.com/nkthehustler/nkthehustler/blob/master/metrics.plugin.introduction.repository.svg">
-    </details>
-    <img width="900" height="1" alt="">
+[<img align="left" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
 
 
 
