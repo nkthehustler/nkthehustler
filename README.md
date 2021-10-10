@@ -4,22 +4,6 @@ Hi I'm `Nitin Kumar`
 <img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="250">
 </div>
 
-<table>
-  <td align="center">
-    <details open><summary>Account version</summary>
-      <img src="https://github.com/nkthehustler/nkthehustler/blob/master/metrics.plugin.introduction.svg">
-    </details>
-    <details open><summary>Repository version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.repository.svg">
-    </details>
-    <img width="900" height="1" alt="">
-  </td>
-</table>
-
-
-
-
-
 ## My activities
 
 <a href="https://github.com/nkthehustler/github-readme-stats">
@@ -76,4 +60,6 @@ height="37"/> </a>
 <a href="https://app.slack.com/client/T3VN9S0H2/C3WAKFV7Y/user_profile/U01G4GE5J65" target="_blank"> <img src="https://img.icons8.com/color/48/ffffff/gmail-new.png"   alt="express" width="37" 
 height="37"/> </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=nkthehustler&style=flat-square&color=blueviolet)
 
