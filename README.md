@@ -48,9 +48,11 @@ Hi I'm `Nitin Kumar`
  ## Get in touch
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="express" width="37"         height="37"/> </a>
-  <a href="https://app.slack.com/client/T3VN9S0H2/C3WAKFV7Y/user_profile/U01G4GE5J65" target="_blank"> <img src="https://img.icons8.com/doodle/48/ffffff/slack-new.png"     alt="express" width="37" 
-  height="37"/> </a>
-
+<a href="https://www.linkedin.com/in/nkthehustler" target="_blank"> <img src="https://img.icons8.com/fluency/48/ffffff/linkedin.png" alt="express" width="37"         height="37"/> </a>
+<a href="https://app.slack.com/client/T3VN9S0H2/C3WAKFV7Y/user_profile/U01G4GE5J65" target="_blank"> <img src="https://img.icons8.com/doodle/48/ffffff/slack-new.png"     alt="express" width="37" 
+height="37"/> </a>
+<a href="https://app.slack.com/client/T3VN9S0H2/C3WAKFV7Y/user_profile/U01G4GE5J65" target="_blank"> <img src="https://img.icons8.com/color/48/ffffff/gmail-new.png"   alt="express" width="37" 
+height="37"/> </a>
+<img src="https://img.icons8.com/color/48/ffffff/gmail-new.png"/>
 
 </p>
