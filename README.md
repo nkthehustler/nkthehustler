@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
 
-- 👯 I’m looking to collaborate on **Inetrnships**
+- 👯 I’m looking to collaborate on **Internships**
 
 - 🤝 I’m looking for help with **Backend Design**
 
