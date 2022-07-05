@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=813DD1&size=30&lines=Hey!+It's+Nitin!;A+designer+cum+developer...;A+hobbiest+photographer;And+an+aesthetic+lover)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:10rem" img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:5rem; height:auto" 
+- img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
 
 - 👯 I’m looking to collaborate on **Internships**
 
