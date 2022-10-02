@@ -54,7 +54,7 @@ height="37"/> </a>
 </p>
 
 <img src=https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png />
-[![@nkthehustler's Holopin board](https://holopin.io/api/user/board?user=nkthehustler)](https://holopin.io/@nkthehustler)
+[![@nkthehustler's Holopin board]< img src = (https://holopin.io/api/user/board?user=nkthehustler)](https://holopin.io/@nkthehustler) />
 
 ## My hobbies
 
