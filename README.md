@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:19rem; height:0rem;" img src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"/>
 - 👨‍💻 I'm currently looking for a **full-stack role**
 - ❤ Coding with coffee is my **Safe Place**
+  
 - 💬 Ask me about **Designing and Philosophy 😆**
 
 ## My activities
